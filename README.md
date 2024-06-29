@@ -1,5 +1,5 @@
 # TrackingNumber 
-## TrackingNumber application is a project to generate unique number along with checksum added in the generated number to validate before proceeding with further action. The generate number has starting first two digit reserved for region/state/node/service from which we are executing to have better track of number. Eight digits are randomply generated alphanumeric number to provide uniqueness and last one digit is checksum.
+### TrackingNumber application is a project to generate unique number along with checksum added in the generated number to validate before proceeding with further action. The generate number has starting first two digit reserved for region/state/node/service from which we are executing to have better track of number. Eight digits are randomply generated alphanumeric number to provide uniqueness and last one digit is checksum.
 Generated sequence will have below format.
 <region 2 character> <unique alphanumeric number 8 character> <checksum 1 character>
 
